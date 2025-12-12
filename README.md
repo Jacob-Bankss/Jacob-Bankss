@@ -19,7 +19,8 @@ This interest has been influenced by my father, who is a **game developer and pr
 ~
 ### 📂 Projects
 - University coursework
-- University assignment (100+ line code)
+- University assignment (100+ line code) - [Programming and Notes Portfolio](https://github.com/Jacob-Bankss/programming-and-notes-Jacob-Bankss)
+
 - Practical labs and exercises
 ~
 ### 🔗 Links
